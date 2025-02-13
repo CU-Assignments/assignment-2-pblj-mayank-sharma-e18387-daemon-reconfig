@@ -9,14 +9,14 @@ Price: 75000
 Product Details:
 ID: 101
 Name: Laptop
-Price: 75000.0
+Price: 75999
 
 
 ##PROBLEM 2
 
 ###Sample Output:
 
-Library Management System by Pushkar[22bcs17250]
+Library Management System by Mehul Sardana 22BCS16355
 
 Fiction Book Details:
 Title: 1984
